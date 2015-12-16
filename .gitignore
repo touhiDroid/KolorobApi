@@ -20,8 +20,6 @@ composer.phar
 /app/config/packages
 /public/packages
 
-/node_modules
-
 
 
 #For security reasons, the database.php file is being ignored
